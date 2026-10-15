@@ -12,3 +12,8 @@ function explore2(){
     console.log("user")
 }
 explore2()
+
+function explore3(){
+    console.log("hii")
+}
+explore3()
