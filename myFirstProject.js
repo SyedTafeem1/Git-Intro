@@ -12,3 +12,7 @@ function third(){
     console.log("updated in new branch")
 }
 third()
+
+function four(){
+    
+}
