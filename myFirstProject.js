@@ -7,3 +7,8 @@ function print(){
     console.log("hello user")
 }
 print()
+
+function third(){
+    console.log("updated in new branch")
+}
+third()
