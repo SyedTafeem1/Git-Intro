@@ -7,3 +7,8 @@ function print(){
     console.log("hello user")
 }
 print()
+
+function explore2(){
+    console.log("user")
+}
+explore2()
